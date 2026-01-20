@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner de Samir" />
+  <img src="Banner.jpg" alt="Banner de Samir" />
 </p>
 
 <!--
